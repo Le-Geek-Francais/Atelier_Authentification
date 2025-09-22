@@ -1,0 +1,6 @@
+AuthName "Accès protégé"
+AuthType Basic
+AuthUserFile /home/legeekfrancais/www/.htpasswd
+Require valid-user
+
+user:$2y$12$qrjLzJq/pT5EV8rt/uemn.h3sUgoTiQrzJRkPIDihQNjP6wR3UqhC
